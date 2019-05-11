@@ -1,0 +1,13 @@
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\bin\Debug\netstandard2.0\VenteProjecteur.deps.json
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\bin\Debug\netstandard2.0\VenteProjecteur.dll
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\bin\Debug\netstandard2.0\VenteProjecteur.pdb
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\VenteProjecteur.csprojAssemblyReference.cache
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\ProjecteurContentPage.xaml.g.cs
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\VenteProjecteur.csproj.CoreCompileInputs.cache
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\VenteProjecteur.AssemblyInfoInputs.cache
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\VenteProjecteur.AssemblyInfo.cs
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\XamlC.stamp
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\VenteProjecteur.dll
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\VenteProjecteur\VenteProjecteur\VenteProjecteur\obj\Debug\netstandard2.0\VenteProjecteur.pdb
